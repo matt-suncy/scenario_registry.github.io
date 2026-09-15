@@ -252,8 +252,7 @@
    "scenario_name": "Hesitant / uncertain",
    "family": "AF",
    "family_name": "Affect",
-   "scenario_desc": "Unce
-   rtain delivery, heavy on fillers and pauses.",
+   "scenario_desc": "Uncertain delivery, heavy on fillers and pauses.",
    "pause_affinity": "high"
   },
   "AF-04": {
